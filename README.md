@@ -1,2 +1,3 @@
 # linux-tips
-Some tips and little tutorials for linux
+
+Some tips and little tutorials for linux.
