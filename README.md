@@ -2,4 +2,4 @@
 
 # Linux tips
 
-Some tips and little tutorials for linux. This is mainly tips I wrote for myself to not forget things I discovered through my travel inside Linux world.
+Some tips and little tutorials for linux. This is mainly tips I wrote for myself to not forget things I discovered through my travel inside the Linux world.
